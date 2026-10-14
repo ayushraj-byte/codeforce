@@ -6,21 +6,22 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 9 |
+| 18 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (3)
+- [brute force](#brute-force) (4)
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (2)
-- [games](#games) (1)
-- [greedy](#greedy) (7)
-- [math](#math) (6)
-- [number theory](#number-theory) (1)
-- [sortings](#sortings) (1)
-- [strings](#strings) (2)
+- [constructive algorithms](#constructive-algorithms) (3)
+- [games](#games) (2)
+- [greedy](#greedy) (11)
+- [implementation](#implementation) (1)
+- [math](#math) (8)
+- [number theory](#number-theory) (2)
+- [sortings](#sortings) (2)
+- [strings](#strings) (3)
 
 ---
 
@@ -31,6 +32,7 @@
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
 | 1875A | [Jellyfish and Undertale](https://codeforces.com/contest/1875/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1875/A%20-%20Jellyfish%20and%20Undertale/solution.cpp) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 
 ### combinatorics
 
@@ -44,24 +46,36 @@
 |---|---------|------------|----------|
 | 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1312/B%20-%20Bogosort/solution.cpp) |
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 
 ### games
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1696B | [NIT Destroys the Universe](https://codeforces.com/contest/1696/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1696/B%20-%20NIT%20Destroys%20the%20Universe/solution.cpp) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1875A | [Jellyfish and Undertale](https://codeforces.com/contest/1875/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1875/A%20-%20Jellyfish%20and%20Undertale/solution.cpp) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 
 ### math
 
@@ -72,6 +86,8 @@
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.cpp) |
 | 1878C | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1878/C%20-%20Vasilije%20in%20Cacak/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
 
 ### number theory
@@ -79,12 +95,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1312/B%20-%20Bogosort/solution.cpp) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 
 ### strings
 
@@ -92,6 +110,7 @@
 |---|---------|------------|----------|
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1883B | [Chemistry](https://codeforces.com/contest/1883/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1883/B%20-%20Chemistry/solution.cpp) |
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushraj-byte/codeforce/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 
 ---
 
